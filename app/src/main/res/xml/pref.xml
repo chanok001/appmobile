@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:key="listeVersion"
+        android:title="Liste de version"
+        android:summary="Veuillez selctionner votre lisye de version"
+        android:dialogTitle="version disponible"
+        android:entries="@array/tabversion"
+        android:entryValues="@array/tabversion"/>
+</PreferenceScreen>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabversion">
+        <item>CupCake</item>
+        <item>donut</item>
+        <item>cookies</item>
+        <item>eclair</item>
+        <item>gingerbread</item>
+        <item>froyo</item>
+        <item>jellyBean</item>
+        <item>lollipop</item>
+        <item>...</item>
+        <item>12</item>
+    </string-array>
+</resources>
