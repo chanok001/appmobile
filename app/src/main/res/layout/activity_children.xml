@@ -71,5 +71,29 @@
         android:onClick="onChildrenClickManager">
 
     </Button>
+    <Button
+        android:id="@+id/bt_children_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="==> List !"
+        android:onClick="onChildrenClickManager">
+
+    </Button>
+    <Button
+        android:id="@+id/bt_children_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SAVE !"
+        android:onClick="onChildrenClickManager">
+
+    </Button>
+    <Button
+        android:id="@+id/bt_children_read"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="read !"
+        android:onClick="onChildrenClickManager">
+
+    </Button>
 
 </LinearLayout>
